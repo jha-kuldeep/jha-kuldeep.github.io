@@ -49,7 +49,7 @@ Welcome to my Data Analyst portfolio! I specialize in transforming raw data into
 - Identified a **54.71% late delivery rate**, helping highlight critical operational inefficiencies affecting customer satisfaction
 - Analysis has the potential to improve delivery efficiency by **15–20%** through optimized shipment planning and inventory tracking
 
-![Supply Chain Dashboard](/Supply_Chain_Analysis_Dashboard_Snap.png)
+![Supply Chain Dashboard](/images/Supply_Chain_Analysis_Dashboard_Snap.png)
 
 ---
 
@@ -64,7 +64,7 @@ Welcome to my Data Analyst portfolio! I specialize in transforming raw data into
 - Dashboard analysis helped identify top-performing products contributing to nearly **35% of total sales revenue**
 - Insights generated can support targeted marketing strategies capable of improving regional sales performance by **10–15%**
 
-![Mobile Sales Dashboard](/Mobile_Sales_Dashboard_Snap.png)
+![Mobile Sales Dashboard](/images/Mobile_Sales_Dashboard_Snap.png)
 
 ---
 
@@ -79,9 +79,9 @@ Welcome to my Data Analyst portfolio! I specialize in transforming raw data into
 - Identified repeat customers contributing to over **60% of recurring purchases**, highlighting the importance of customer retention strategies
 - Insights from customer segmentation can potentially increase marketing conversion rates by **12–18%**
 
-![Customer Behavior Dashboard](/Customer_Behavior_Analysis_Dashboard_Snap_1.png)
+![Customer Behavior Dashboard](/images/Customer_Behavior_Analysis_Dashboard_Snap_1.png)
 
-![Customer Behavior Dashboard](/Cusomer_Behavior_Analysis_Dashboard_Snap_2.png)
+![Customer Behavior Dashboard](/images/Cusomer_Behavior_Analysis_Dashboard_Snap_2.png)
 
 ---
 
@@ -95,11 +95,11 @@ Welcome to my Data Analyst portfolio! I specialize in transforming raw data into
 - Analysis identified categories with out-of-stock rates exceeding **25%**, indicating potential revenue leakage
 - Inventory optimization insights can help reduce stock shortages by approximately **15%**, improving product availability and operational efficiency
   
-![Zepto Insight](/Zepto_Inventory_Analysis_Snap1.png)
+![Zepto Insight](/images/Zepto_Inventory_Analysis_Snap1.png)
 
-![Zepto Insight](/Zepto_Inventory_Analysis_Snap2.png)
+![Zepto Insight](/images/Zepto_Inventory_Analysis_Snap2.png)
 
-![Zepto Insight](/Zepto_Inventory_Analysis_Snap3.png)
+![Zepto Insight](/images/Zepto_Inventory_Analysis_Snap3.png)
 
 ---
 
