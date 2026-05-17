@@ -1,1 +1,97 @@
-# jha-kuldeep.github.io
+# 📊 Data Analyst Portfolio – Kuldeep Jha
+
+Welcome to my Data Analyst portfolio! I specialize in transforming raw data into actionable business insights using Python, SQL, Power BI, and Machine Learning. With hands-on project experience in analytics, dashboard development, and data visualization, I focus on solving real-world business problems through data-driven decision-making.
+
+---
+
+## 👤 Profile Summary
+
+- Aspiring Data Analyst with hands-on experience in data cleaning, transformation, visualization, and business analysis using **Python, SQL, Excel, and Power BI**
+- Skilled in performing **Exploratory Data Analysis (EDA)** and building interactive dashboards to uncover trends and support business decisions
+- Experienced in using **Pandas, NumPy, Matplotlib, Seaborn, and MySQL** for data analysis workflows
+- Familiar with Machine Learning fundamentals and AI-assisted analytics workflows
+- Strong analytical mindset with a passion for learning and solving business problems through data
+
+---
+
+## 🧠 Skills
+
+**Languages & Libraries:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn  
+**Tools & Visualization:** Power BI, Excel, Jupyter Notebook, MySQL Workbench  
+**Concepts:** Data Cleaning, EDA, Data Visualization, Business Analytics, Machine Learning  
+**Other Skills:** Prompt Engineering, AI-Assisted Analytics
+
+---
+
+## 💼 Professional Experience
+
+**Bihar State Electronics Development Corporation Limited (BELTRON), Patna — Data Entry Operator**  
+*4 Years*
+
+- Worked extensively with large-scale datasets, ensuring data accuracy, consistency, and efficient record management
+- Developed strong attention to detail and data handling skills while managing operational and administrative data
+- Transitioned into Data Analytics by building end-to-end projects using Python, SQL, and Power BI
+- Applied analytical thinking and business understanding to create dashboards and generate actionable insights from real-world datasets
+
+---
+
+## 📈 Featured Projects
+
+### 🚚 Supply Chain Analysis Project
+- Analyzed 170K+ supply chain transactions to identify operational inefficiencies and delivery delays
+- Performed data cleaning and EDA using **Python, Pandas, and SQL**
+- Built interactive Power BI dashboards to visualize KPIs such as late deliveries, revenue trends, shipping performance, and profitability
+- Generated business insights related to inventory management, delivery optimization, and operational bottlenecks
+
+![Supply Chain Dashboard](/images/supply_chain_dashboard.png)
+
+---
+
+### 📱 Mobile Sales Dashboard
+- Built an interactive Power BI dashboard to analyze mobile sales performance across brands, regions, and customer segments
+- Used SQL and Python for data preprocessing and business analysis
+- Visualized revenue trends, top-performing products, and customer purchasing patterns
+
+![Mobile Sales Dashboard](/images/mobile_sales_dashboard.png)
+
+---
+
+### 🛒 Customer Behavior Analysis Project
+- Performed customer segmentation and purchasing behavior analysis using Python and SQL
+- Identified patterns in customer spending, subscription behavior, and repeat purchases
+- Created dashboards and visual reports to support customer-focused business decisions
+
+![Customer Behavior Dashboard](/images/customer_behavior_dashboard.png)
+
+---
+
+### 🏪 Zepto Inventory Analysis Project
+- Conducted inventory and stock-level analysis to identify out-of-stock trends and category-wise performance
+- Used SQL queries and Python-based analysis to generate operational insights
+- Developed visual dashboards to support inventory optimization and business planning
+
+![Zepto Dashboard](/images/zepto_dashboard.png)
+
+---
+
+## 🎓 Education
+
+- Bachelor of Arts (Economics Honours) | Indira Gandhi National Open University, Delhi
+---
+
+## 📜 Certifications & Workshops
+
+- Data Analytics Course — PW Skills (Issued Apr 2026)
+- AI Tools Workshop — Be10x (Issued May 2026)
+
+---
+
+## 📬 Let’s Connect!
+
+- 📧 Email: kuldeep.786jha@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/kuldeep-jha-b3517b316  
+- 💻 GitHub: https://github.com/jha-kuldeep
+
+---
+
+Thanks for visiting my portfolio! Feel free to explore my repositories and connect with me for collaboration, opportunities, or discussions related to Data Analytics and Business Intelligence.
