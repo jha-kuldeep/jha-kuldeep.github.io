@@ -119,9 +119,9 @@ Welcome to my Data Analyst portfolio! I specialize in transforming raw data into
 ## 📬 Let’s Connect!
 
 - 📧 Email: kuldeep.786jha@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/kuldeep-jha-b3517b316  
-- 💻 GitHub: https://github.com/jha-kuldeep  
-- 🌐 Portfolio: https://jha-kuldeep.github.io
+- 🔗 LinkedIn: [linkedin.com/in/kuldeep-jha-b3517b316](https://linkedin.com/in/kuldeep-jha-b3517b316)  
+- 💻 GitHub: [github.com/jha-kuldeep](https://github.com/jha-kuldeep)  
+- 🌐 Portfolio: [jha-kuldeep.github.io](https://jha-kuldeep.github.io)
 
 ---
 
