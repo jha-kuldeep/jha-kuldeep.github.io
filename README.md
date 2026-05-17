@@ -38,6 +38,10 @@ Welcome to my Data Analyst portfolio! I specialize in transforming raw data into
 ## 📈 Featured Projects
 
 ### 🚚 Supply Chain Analysis Project
+
+🔗 Repository:  
+https://github.com/jha-kuldeep/Supply_Chain_Analysis.git
+
 - Analyzed 170K+ supply chain transactions to identify operational inefficiencies and delivery delays
 - Performed data cleaning and EDA using **Python, Pandas, and SQL**
 - Built interactive Power BI dashboards to visualize KPIs such as late deliveries, revenue trends, shipping performance, and profitability
@@ -48,6 +52,10 @@ Welcome to my Data Analyst portfolio! I specialize in transforming raw data into
 ---
 
 ### 📱 Mobile Sales Dashboard
+
+🔗 Repository:  
+https://github.com/jha-kuldeep/Mobile-Sales-Dashboard.git
+
 - Built an interactive Power BI dashboard to analyze mobile sales performance across brands, regions, and customer segments
 - Used SQL and Python for data preprocessing and business analysis
 - Visualized revenue trends, top-performing products, and customer purchasing patterns
@@ -57,6 +65,10 @@ Welcome to my Data Analyst portfolio! I specialize in transforming raw data into
 ---
 
 ### 🛒 Customer Behavior Analysis Project
+
+🔗 Repository:  
+https://github.com/jha-kuldeep/Customer-Behavior-Analysis-Project.git
+
 - Performed customer segmentation and purchasing behavior analysis using Python and SQL
 - Identified patterns in customer spending, subscription behavior, and repeat purchases
 - Created dashboards and visual reports to support customer-focused business decisions
@@ -66,6 +78,10 @@ Welcome to my Data Analyst portfolio! I specialize in transforming raw data into
 ---
 
 ### 🏪 Zepto Inventory Analysis Project
+
+🔗 Repository:  
+https://github.com/jha-kuldeep/Zepto-Inventory-Analysis.git
+
 - Conducted inventory and stock-level analysis to identify out-of-stock trends and category-wise performance
 - Used SQL queries and Python-based analysis to generate operational insights
 - Developed visual dashboards to support inventory optimization and business planning
@@ -77,6 +93,7 @@ Welcome to my Data Analyst portfolio! I specialize in transforming raw data into
 ## 🎓 Education
 
 - Bachelor of Arts (Economics Honours) | Indira Gandhi National Open University, Delhi
+
 ---
 
 ## 📜 Certifications & Workshops
