@@ -75,7 +75,7 @@ https://github.com/jha-kuldeep/Customer-Behavior-Analysis-Project.git
 
 ![Customer Behavior Dashboard](/Customer_Behavior_Analysis_Dashboard_Snap_1.png)
 
-![Customer Behavior Dashboard](/Customer_Behavior_Analysis_Dashboard_Snap_2.png)
+![Customer Behavior Dashboard](/Cusomer_Behavior_Analysis_Dashboard_Snap_2.png)
 
 ---
 
