@@ -47,7 +47,7 @@ https://github.com/jha-kuldeep/Supply_Chain_Analysis.git
 - Built interactive Power BI dashboards to visualize KPIs such as late deliveries, revenue trends, shipping performance, and profitability
 - Generated business insights related to inventory management, delivery optimization, and operational bottlenecks
 
-![Supply Chain Dashboard](/images/supply_chain_dashboard.png)
+![Supply Chain Dashboard](/Supply_Chain_Analysis_Dashboard_Snap.png)
 
 ---
 
@@ -60,7 +60,7 @@ https://github.com/jha-kuldeep/Mobile-Sales-Dashboard.git
 - Used SQL and Python for data preprocessing and business analysis
 - Visualized revenue trends, top-performing products, and customer purchasing patterns
 
-![Mobile Sales Dashboard](/images/mobile_sales_dashboard.png)
+![Mobile Sales Dashboard](/Mobile_Sales_Dashboard_Snap.png)
 
 ---
 
@@ -73,7 +73,9 @@ https://github.com/jha-kuldeep/Customer-Behavior-Analysis-Project.git
 - Identified patterns in customer spending, subscription behavior, and repeat purchases
 - Created dashboards and visual reports to support customer-focused business decisions
 
-![Customer Behavior Dashboard](/images/customer_behavior_dashboard.png)
+![Customer Behavior Dashboard](/Customer_Behavior_Analysis_Dashboard_Snap_1.png)
+
+![Customer Behavior Dashboard](/Customer_Behavior_Analysis_Dashboard_Snap_2.png)
 
 ---
 
@@ -84,9 +86,12 @@ https://github.com/jha-kuldeep/Zepto-Inventory-Analysis.git
 
 - Conducted inventory and stock-level analysis to identify out-of-stock trends and category-wise performance
 - Used SQL queries and Python-based analysis to generate operational insights
-- Developed visual dashboards to support inventory optimization and business planning
+  
+![Zepto Insight](/Zepto_Inventory_Analysis_Snap1.png)
 
-![Zepto Dashboard](/images/zepto_dashboard.png)
+![Zepto Insight](/Zepto_Inventory_Analysis_Snap2.png)
+
+![Zepto Insight](/Zepto_Inventory_Analysis_Snap3.png)
 
 ---
 
