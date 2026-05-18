@@ -27,10 +27,10 @@ I turn raw, messy data into clear business decisions. With **4 years of hands-on
 | Category | Tools & Technologies |
 |---|---|
 | **Languages** | Python, SQL |
-| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn |
 | **BI & Visualization** | Power BI, Excel, Jupyter Notebook |
 | **Databases** | MySQL, MySQL Workbench |
-| **Concepts** | EDA, Data Cleaning, Business Analytics, Data Visualization, Machine Learning Fundamentals |
+| **Concepts** | EDA, Data Cleaning, Business Analytics, Data Visualization, Machine Learning, Predictive Analytics |
 | **Other** | Prompt Engineering, AI-Assisted Analytics |
 
 ---
@@ -38,17 +38,41 @@ I turn raw, messy data into clear business decisions. With **4 years of hands-on
 ## 📈 Featured Projects
 
 ### 🚚 Supply Chain Analysis
-> **Tech Stack:** Python · Pandas · SQL · Power BI · Machine Learning
+> **Tech Stack:** Python · Pandas · SQL · Power BI · Machine Learning · Scikit-Learn
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/jha-kuldeep/Supply_Chain_Analysis)
 
-Analyzed **170,000+ supply chain transactions** to uncover delivery inefficiencies and operational bottlenecks.
+Analyzed **172,765+ supply chain transactions** to uncover delivery inefficiencies, revenue exposure, operational bottlenecks, and delay prediction opportunities.
 
 | Key Finding | Business Impact |
 |---|---|
-| **54.71% late delivery rate** identified | Highlighted critical inefficiencies affecting customer satisfaction |
-| Delivery efficiency improvement potential | **15–20%** through optimized shipment planning |
-| KPIs visualized | Revenue trends, shipping performance, profitability |
+| **54.71% late delivery rate** identified | Highlighted major operational inefficiencies affecting customer satisfaction |
+| **$19.25M revenue exposed to delay risk** | Revealed significant financial exposure from delayed shipments |
+| **100% delay rate in First Class shipping** | Identified a critical logistics failure risking **$5.41M revenue** |
+| Built a **Tuned Random Forest ML model** with **86% accuracy** | Enabled proactive late-delivery prediction before shipment |
+| ML-driven intervention strategy proposed | Potential to prevent **10% delays (~$1.93M revenue protected annually)** |
+| Regional bottleneck detection performed | Identified Central Africa & Southeast Asia as high-risk logistics zones |
+
+### 🔍 Machine Learning Implementation
+- Trained and evaluated multiple ML models:
+  - Logistic Regression
+  - Decision Tree
+  - AdaBoost
+  - Gradient Boosting
+  - Random Forest
+  - Tuned Random Forest
+- Best model achieved:
+  - **86% Accuracy**
+  - **85% F1 Score**
+- Predicted late delivery risk using:
+  - Shipping Mode
+  - Scheduled Shipment Days
+  - Category
+  - Customer Segment
+  - Department
+  - Region
+  - Order Month
+  - Order Hour
 
 ![Supply Chain Dashboard](/images/Supply_Chain_Analysis_Dashboard_Snap.png)
 
@@ -107,25 +131,25 @@ Conducted stock-level and inventory analysis to identify out-of-stock patterns a
 
 ## 💼 Work Experience
 
-**Bihar State Electronics Development Corporation Ltd. (BELTRON), Patna**
+**Bihar State Electronics Development Corporation Ltd. (BELTRON), Patna**  
 *Data Entry Operator · 4 Years*
 
 - Managed and maintained **large-scale government datasets**, ensuring accuracy, consistency, and record integrity
 - Built strong foundational skills in data handling, attention to detail, and understanding of operational workflows
-- Self-transitioned into Data Analytics by independently building end-to-end projects using **Python, SQL, and Power BI**
+- Self-transitioned into Data Analytics by independently building end-to-end projects using **Python, SQL, Power BI, and Machine Learning**
 - Applied business context from government operations to generate actionable insights in analytics projects
 
 ---
 
 ## 🎓 Education & Certifications
 
-**Bachelor of Arts – Economics (Honours)**
+**Bachelor of Arts – Economics (Honours)**  
 Indira Gandhi National Open University (IGNOU), Delhi
 
 | Certification | Issuer | Year |
 |---|---|---|
-| Data Analytics Course | [PW Skills]([https://pwskills.com](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fpwskills%2Ecom%2Flearn%2Fcertificate%2Fedb74b64-ce5a-48db-9c50-339219302b0d%2F%3FisCareerPath%3Dtrue&urlhash=6HiD&mt=RLWUtO3_p0Dz5EL_MkSO4Zbu7S2-Zi3XlvOzKb8rq3fFxtOkpvU2rFy4m_LGJ0wM5xhkjUpiGbg004KXtCQ56p24c7U3&isSdui=true)) | Apr 2026 |
-| AI Tools Workshop | [Be10x]([https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971313377])) | May 2026 |
+| [Data Analytics Course Certificate](https://pwskills.com/learn/certificate/edb74b64-ce5a-48db-9c50-339219302b0d/?isCareerPath=true) | PW Skills | Apr 2026 |
+| [AI Tools Workshop Certificate](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971313377) | Be10x | May 2026 |
 
 ---
 
