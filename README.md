@@ -125,7 +125,7 @@ Indira Gandhi National Open University (IGNOU), Delhi
 | Certification | Issuer | Year |
 |---|---|---|
 | Data Analytics Course | [PW Skills]([https://pwskills.com](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fpwskills%2Ecom%2Flearn%2Fcertificate%2Fedb74b64-ce5a-48db-9c50-339219302b0d%2F%3FisCareerPath%3Dtrue&urlhash=6HiD&mt=RLWUtO3_p0Dz5EL_MkSO4Zbu7S2-Zi3XlvOzKb8rq3fFxtOkpvU2rFy4m_LGJ0wM5xhkjUpiGbg004KXtCQ56p24c7U3&isSdui=true)) | Apr 2026 |
-| AI Tools Workshop | [Be10x]([https://be10x.in](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fcertx%2Ein%2Fcertificate%2F0270772f-3809-4400-b29b-1e1c61cd09971313377&urlhash=RxII&mt=7mDxddI9kuo_8wv6XIZGvk6zNBb3tGomkqbYJ17uQCIs-u47akfYmmNwV0mdj-2WIySqPMDftG9gc9sLOZNe2OyN4zX_&isSdui=true)) | May 2026 |
+| AI Tools Workshop | [Be10x]([https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971313377])) | May 2026 |
 
 ---
 
