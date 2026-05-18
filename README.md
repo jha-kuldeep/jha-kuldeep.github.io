@@ -1,128 +1,145 @@
-# 📊 Data Analyst Portfolio – Kuldeep Jha
+<h1 align="center">👋 Hi, I'm Kuldeep Jha</h1>
 
-Welcome to my Data Analyst portfolio! I specialize in transforming raw data into actionable business insights using Python, SQL, Power BI, and Machine Learning. With hands-on project experience in analytics, dashboard development, and data visualization, I focus on solving real-world business problems through data-driven decision-making.
+<h3 align="center">Data Analyst · AI-Assisted Analytics · Business Intelligence</h3>
 
----
-
-## 👤 Profile Summary
-
-- Aspiring Data Analyst with hands-on experience in data cleaning, transformation, visualization, and business analysis using **Python, SQL, Excel, and Power BI**
-- Skilled in performing **Exploratory Data Analysis (EDA)** and building interactive dashboards to uncover trends and support business decisions
-- Experienced in using **Pandas, NumPy, Matplotlib, Seaborn, and MySQL** for data analysis workflows
-- Familiar with Machine Learning fundamentals and AI-assisted analytics workflows
-- Strong analytical mindset with a passion for learning and solving business problems through data
+<p align="center">
+  <a href="mailto:kuldeep.786jha@gmail.com"><img src="https://img.shields.io/badge/Email-kuldeep.786jha%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kuldeep-jha-b3517b316"><img src="https://img.shields.io/badge/LinkedIn-Kuldeep%20Jha-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://jha-kuldeep.github.io"><img src="https://img.shields.io/badge/Portfolio-jha--kuldeep.github.io-0D1117?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/jha-kuldeep"><img src="https://img.shields.io/badge/GitHub-jha--kuldeep-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🧠 Skills
+## 💡 About Me
 
-**Languages & Libraries:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn  
-**Tools & Visualization:** Power BI, Excel, Jupyter Notebook, MySQL Workbench  
-**Concepts:** Data Cleaning, EDA, Data Visualization, Business Analytics, Machine Learning  
-**Other Skills:** Prompt Engineering, AI-Assisted Analytics
+I turn raw, messy data into clear business decisions. With **4 years of hands-on data management experience** at a government corporation and a strong self-driven transition into analytics, I bring a rare combination of real-world business context and modern technical skills.
+
+- 🔍 Specialized in **EDA, data cleaning, dashboard development, and business analytics**
+- 📊 Built end-to-end projects across supply chain, retail sales, customer behavior, and inventory domains
+- 🤖 Familiar with **Machine Learning fundamentals** and actively working with **AI-assisted analytics workflows**
+- 🎯 Goal: Leverage data to generate actionable insights that directly impact business outcomes
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Skills
 
-**Bihar State Electronics Development Corporation Limited (BELTRON), Patna — Data Entry Operator**  
-*4 Years*
-
-- Worked extensively with large-scale datasets, ensuring data accuracy, consistency, and efficient record management
-- Developed strong attention to detail and data handling skills while managing operational and administrative data
-- Transitioned into Data Analytics by building end-to-end projects using Python, SQL, and Power BI
-- Applied analytical thinking and business understanding to create dashboards and generate actionable insights from real-world datasets
+| Category | Tools & Technologies |
+|---|---|
+| **Languages** | Python, SQL |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
+| **BI & Visualization** | Power BI, Excel, Jupyter Notebook |
+| **Databases** | MySQL, MySQL Workbench |
+| **Concepts** | EDA, Data Cleaning, Business Analytics, Data Visualization, Machine Learning Fundamentals |
+| **Other** | Prompt Engineering, AI-Assisted Analytics |
 
 ---
 
 ## 📈 Featured Projects
 
-### 🚚 Supply Chain Analysis Project
+### 🚚 Supply Chain Analysis
+> **Tech Stack:** Python · Pandas · SQL · Power BI
 
-🔗 Repository:  
-[Supply Chain Analysis Project](https://github.com/jha-kuldeep/Supply_Chain_Analysis)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/jha-kuldeep/Supply_Chain_Analysis)
 
-- Analyzed 170K+ supply chain transactions to identify operational inefficiencies and delivery delays
-- Performed data cleaning and EDA using **Python, Pandas, and SQL**
-- Built interactive Power BI dashboards to visualize KPIs such as late deliveries, revenue trends, shipping performance, and profitability
-- Generated business insights related to inventory management, delivery optimization, and operational bottlenecks
-- Identified a **54.71% late delivery rate**, helping highlight critical operational inefficiencies affecting customer satisfaction
-- Analysis has the potential to improve delivery efficiency by **15–20%** through optimized shipment planning and inventory tracking
+Analyzed **170,000+ supply chain transactions** to uncover delivery inefficiencies and operational bottlenecks.
+
+| Key Finding | Business Impact |
+|---|---|
+| **54.71% late delivery rate** identified | Highlighted critical inefficiencies affecting customer satisfaction |
+| Delivery efficiency improvement potential | **15–20%** through optimized shipment planning |
+| KPIs visualized | Revenue trends, shipping performance, profitability |
 
 ![Supply Chain Dashboard](/images/Supply_Chain_Analysis_Dashboard_Snap.png)
 
 ---
 
 ### 📱 Mobile Sales Dashboard
+> **Tech Stack:** Python · SQL · Power BI
 
-🔗 Repository:  
-[Mobile Sales Dashboard](https://github.com/jha-kuldeep/Mobile-Sales-Dashboard)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/jha-kuldeep/Mobile-Sales-Dashboard)
 
-- Built an interactive Power BI dashboard to analyze mobile sales performance across brands, regions, and customer segments
-- Used SQL and Python for data preprocessing and business analysis
-- Visualized revenue trends, top-performing products, and customer purchasing patterns
-- Dashboard analysis helped identify top-performing products contributing to nearly **35% of total sales revenue**
-- Insights generated can support targeted marketing strategies capable of improving regional sales performance by **10–15%**
+Built an interactive Power BI dashboard to analyze mobile sales across brands, regions, and customer segments.
+
+| Key Finding | Business Impact |
+|---|---|
+| Top products identified | Contribute to **~35% of total sales revenue** |
+| Regional performance gaps surfaced | Can improve regional sales by **10–15%** via targeted marketing |
 
 ![Mobile Sales Dashboard](/images/Mobile_Sales_Dashboard_Snap.png)
 
 ---
 
-### 🛒 Customer Behavior Analysis Project
+### 🛒 Customer Behavior Analysis
+> **Tech Stack:** Python · SQL · Power BI
 
-🔗 Repository:  
-[Customer Behavior Analysis Project](https://github.com/jha-kuldeep/Customer-Behavior-Analysis-Project)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/jha-kuldeep/Customer-Behavior-Analysis-Project)
 
-- Performed customer segmentation and purchasing behavior analysis using Python and SQL
-- Identified patterns in customer spending, subscription behavior, and repeat purchases
-- Created dashboards and visual reports to support customer-focused business decisions
-- Identified repeat customers contributing to over **60% of recurring purchases**, highlighting the importance of customer retention strategies
-- Insights from customer segmentation can potentially increase marketing conversion rates by **12–18%**
+Performed customer segmentation and purchase pattern analysis to support retention and marketing strategies.
+
+| Key Finding | Business Impact |
+|---|---|
+| Repeat customers drive **60%+ of recurring purchases** | Highlights value of retention-focused strategies |
+| Segmentation insights generated | Can improve marketing conversion rates by **12–18%** |
 
 ![Customer Behavior Dashboard](/images/Customer_Behavior_Analysis_Dashboard_Snap_1.png)
-
 ![Customer Behavior Dashboard](/images/Cusomer_Behavior_Analysis_Dashboard_Snap_2.png)
 
 ---
 
-### 🏪 Zepto Inventory Analysis Project
+### 🏪 Zepto Inventory Analysis
+> **Tech Stack:** Python · SQL
 
-🔗 Repository:  
-[Zepto Inventory Analysis Project](https://github.com/jha-kuldeep/Zepto-Inventory-Analysis)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/jha-kuldeep/Zepto-Inventory-Analysis)
 
-- Conducted inventory and stock-level analysis to identify out-of-stock trends and category-wise performance
-- Used SQL queries and Python-based analysis to generate operational insights
-- Analysis identified categories with out-of-stock rates exceeding **25%**, indicating potential revenue leakage
-- Inventory optimization insights can help reduce stock shortages by approximately **15%**, improving product availability and operational efficiency
-  
+Conducted stock-level and inventory analysis to identify out-of-stock patterns and category-wise performance gaps.
+
+| Key Finding | Business Impact |
+|---|---|
+| Out-of-stock rate **>25%** in key categories | Indicates significant revenue leakage |
+| Stock shortage reduction potential | **~15%** improvement in product availability |
+
 ![Zepto Insight](/images/Zepto_Inventory_Analysis_Snap1.png)
-
 ![Zepto Insight](/images/Zepto_Inventory_Analysis_Snap2.png)
-
 ![Zepto Insight](/images/Zepto_Inventory_Analysis_Snap3.png)
 
 ---
 
-## 🎓 Education
+## 💼 Work Experience
 
-- Bachelor of Arts (Economics Honours) | Indira Gandhi National Open University, Delhi
+**Bihar State Electronics Development Corporation Ltd. (BELTRON), Patna**
+*Data Entry Operator · 4 Years*
 
----
-
-## 📜 Certifications & Workshops
-
-- Data Analytics Course — PW Skills (Issued Apr 2026)
-- AI Tools Workshop — Be10x (Issued May 2026)
-
----
-
-## 📬 Let’s Connect!
-
-- 📧 Email: kuldeep.786jha@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/kuldeep-jha-b3517b316](https://linkedin.com/in/kuldeep-jha-b3517b316)  
-- 💻 GitHub: [github.com/jha-kuldeep](https://github.com/jha-kuldeep)  
-- 🌐 Portfolio: [jha-kuldeep.github.io](https://jha-kuldeep.github.io)
+- Managed and maintained **large-scale government datasets**, ensuring accuracy, consistency, and record integrity
+- Built strong foundational skills in data handling, attention to detail, and understanding of operational workflows
+- Self-transitioned into Data Analytics by independently building end-to-end projects using **Python, SQL, and Power BI**
+- Applied business context from government operations to generate actionable insights in analytics projects
 
 ---
 
-Thanks for visiting my portfolio! Feel free to explore my repositories and connect with me for collaboration, opportunities, or discussions related to Data Analytics and Business Intelligence.
+## 🎓 Education & Certifications
+
+**Bachelor of Arts – Economics (Honours)**
+Indira Gandhi National Open University (IGNOU), Delhi
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Data Analytics Course | [PW Skills](https://pwskills.com) | Apr 2026 |
+| AI Tools Workshop | [Be10x](https://be10x.in) | May 2026 |
+
+---
+
+## 📬 Let's Connect
+
+I'm actively looking for **Data Analyst / Business Analyst** roles. If you're working on interesting data problems or have an opportunity to discuss, I'd love to connect!
+
+<p align="center">
+  <a href="mailto:kuldeep.786jha@gmail.com">📧 kuldeep.786jha@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/kuldeep-jha-b3517b316">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://jha-kuldeep.github.io">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://github.com/jha-kuldeep">💻 GitHub</a>
+</p>
+
+---
+
+<p align="center"><i>"Transforming data into decisions — one insight at a time."</i></p>
