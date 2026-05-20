@@ -90,7 +90,7 @@ Built an interactive Power BI dashboard to analyze mobile sales across brands, r
 | Top products identified | Contribute to **~35% of total sales revenue** |
 | Regional performance gaps surfaced | Can improve regional sales by **10–15%** via targeted marketing |
 
-![Mobile Sales Dashboard](/images/Mobile_Sales_Dashboard_Snap.png)
+![Mobile Sales Dashboard](gif/mobile_sales_dashboard_gif.gif)
 
 ---
 
