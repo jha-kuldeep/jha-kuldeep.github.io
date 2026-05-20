@@ -74,7 +74,7 @@ Analyzed **172,765+ supply chain transactions** to uncover delivery inefficienci
   - Order Month
   - Order Hour
 
-![Supply Chain Dashboard](/images/Supply_Chain_Analysis_Dashboard_Snap.png)
+![Supply Chain Dashboard](gif/supply_chain_analysis.gif)
 
 ---
 
@@ -106,8 +106,8 @@ Performed customer segmentation and purchase pattern analysis to support retenti
 | Repeat customers drive **60%+ of recurring purchases** | Highlights value of retention-focused strategies |
 | Segmentation insights generated | Can improve marketing conversion rates by **12–18%** |
 
-![Customer Behavior Dashboard](/images/Customer_Behavior_Analysis_Dashboard_Snap_1.png)
-![Customer Behavior Dashboard](/images/Cusomer_Behavior_Analysis_Dashboard_Snap_2.png)
+![Customer Behavior Dashboard](gif/customer_behavior_analysis_dashboard.gif)
+![Customer Behavior Dashboard](gif/customer_behavior_analysis_dashboard_2.gif)
 
 ---
 
