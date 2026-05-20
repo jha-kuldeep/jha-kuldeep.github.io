@@ -13,7 +13,7 @@
 
 ## 💡 About Me
 
-I turn raw, messy data into clear business decisions. With **4 years of hands-on data management experience** at a government corporation and a strong self-driven transition into analytics, I bring a rare combination of real-world business context and modern technical skills.
+I turn raw, messy data into clear business decisions. With **4 years of hands-on data management experience in a government healthcare institution** and a strong self-driven transition into analytics, I bring a rare combination of real-world operational exposure and modern technical skills.
 
 - 🔍 Specialized in **EDA, data cleaning, dashboard development, and business analytics**
 - 📊 Built end-to-end projects across supply chain, retail sales, customer behavior, and inventory domains
@@ -131,15 +131,15 @@ Conducted stock-level and inventory analysis to identify out-of-stock patterns a
 
 ## 💼 Work Experience
 
-**Government Ayurvedic College & Hospital, Bhagalpur**
+**Government Ayurvedic College & Hospital, Bhagalpur**  
 *Data Entry Operator (Outsourced via BELTRON) · 4 Years*
 
-* Worked as an outsourced contractual Data Entry Operator deployed through **Bihar State Electronics Development Corporation Ltd. (BELTRON)** at a government healthcare institution
-* Managed and maintained large-scale government datasets while ensuring accuracy, consistency, confidentiality, and record integrity
-* Handled administrative records, digital documentation, data entry operations, and reporting workflows in a fast-paced government office environment
-* Developed strong foundational skills in data handling, attention to detail, operational processes, and workflow management
-* Self-transitioned into Data Analytics by independently building end-to-end projects using **Python, SQL, Power BI, and Machine Learning**
-* Applied practical business and operational understanding from real-world government processes to generate actionable insights in analytics projects
+- Worked as an outsourced contractual Data Entry Operator deployed through **Bihar State Electronics Development Corporation Ltd. (BELTRON)** at a government healthcare institution
+- Managed and maintained large-scale government datasets while ensuring accuracy, consistency, confidentiality, and record integrity
+- Handled administrative records, digital documentation, data entry operations, and reporting workflows in a fast-paced government office environment
+- Developed strong foundational skills in data handling, attention to detail, operational processes, and workflow management
+- Self-transitioned into Data Analytics by independently building end-to-end projects using **Python, SQL, Power BI, and Machine Learning**
+- Applied practical business and operational understanding from real-world government processes to generate actionable insights in analytics projects
 
 ---
 
