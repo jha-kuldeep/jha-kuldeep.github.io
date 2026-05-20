@@ -131,13 +131,15 @@ Conducted stock-level and inventory analysis to identify out-of-stock patterns a
 
 ## 💼 Work Experience
 
-**Bihar State Electronics Development Corporation Ltd. (BELTRON), Patna**  
-*Data Entry Operator · 4 Years*
+**Government Ayurvedic College & Hospital, Bhagalpur**
+*Data Entry Operator (Outsourced via BELTRON) · 4 Years*
 
-- Managed and maintained **large-scale government datasets**, ensuring accuracy, consistency, and record integrity
-- Built strong foundational skills in data handling, attention to detail, and understanding of operational workflows
-- Self-transitioned into Data Analytics by independently building end-to-end projects using **Python, SQL, Power BI, and Machine Learning**
-- Applied business context from government operations to generate actionable insights in analytics projects
+* Worked as an outsourced contractual Data Entry Operator deployed through **Bihar State Electronics Development Corporation Ltd. (BELTRON)** at a government healthcare institution
+* Managed and maintained large-scale government datasets while ensuring accuracy, consistency, confidentiality, and record integrity
+* Handled administrative records, digital documentation, data entry operations, and reporting workflows in a fast-paced government office environment
+* Developed strong foundational skills in data handling, attention to detail, operational processes, and workflow management
+* Self-transitioned into Data Analytics by independently building end-to-end projects using **Python, SQL, Power BI, and Machine Learning**
+* Applied practical business and operational understanding from real-world government processes to generate actionable insights in analytics projects
 
 ---
 
