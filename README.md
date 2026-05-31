@@ -49,7 +49,7 @@ Analyzed **172,765+ supply chain transactions** to uncover delivery inefficienci
 | **54.71% late delivery rate** identified | Highlighted major operational inefficiencies affecting customer satisfaction |
 | **$19.25M revenue exposed to delay risk** | Revealed significant financial exposure from delayed shipments |
 | **100% delay rate in First Class shipping** | Identified a critical logistics failure risking **$5.41M revenue** |
-| Built a **Tuned Random Forest ML model** with **86% accuracy** | Enabled proactive late-delivery prediction before shipment |
+| Built a **Tuned Random Forest ML model** with **77% f1-score** | Enabled proactive late-delivery prediction before shipment |
 | ML-driven intervention strategy proposed | Potential to prevent **10% delays (~$1.93M revenue protected annually)** |
 | Regional bottleneck detection performed | Identified Central Africa & Southeast Asia as high-risk logistics zones |
 
@@ -62,8 +62,8 @@ Analyzed **172,765+ supply chain transactions** to uncover delivery inefficienci
   - Random Forest
   - Tuned Random Forest
 - Best model achieved:
-  - **86% Accuracy**
-  - **85% F1 Score**
+  - **74% Accuracy**
+  - **77% F1 Score**
 - Predicted late delivery risk using:
   - Shipping Mode
   - Scheduled Shipment Days
